@@ -1,0 +1,15 @@
+/* style.css */
+
+body {
+    background-color: lightpink;
+}
+
+.header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+li {
+    font-size: 24px;
+}

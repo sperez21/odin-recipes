@@ -1,0 +1,20 @@
+/* fstyles.css */
+
+body {
+    background-color: lightpink;
+}
+
+.header,
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.text {
+    font-size: 24px;
+    font-style: italic;
+}
